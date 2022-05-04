@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ionut/Coding/gitrep/ExtraWordPuzzle/build/Debug",
+  "command": "/usr/bin/c++      -o CMakeFiles/main.dir/App.cpp.o -c /home/ionut/Coding/gitrep/ExtraWordPuzzle/App.cpp",
+  "file": "/home/ionut/Coding/gitrep/ExtraWordPuzzle/App.cpp"
+},
+{
+  "directory": "/home/ionut/Coding/gitrep/ExtraWordPuzzle/build/Debug",
+  "command": "/usr/bin/c++      -o CMakeFiles/main.dir/Graph.cpp.o -c /home/ionut/Coding/gitrep/ExtraWordPuzzle/Graph.cpp",
+  "file": "/home/ionut/Coding/gitrep/ExtraWordPuzzle/Graph.cpp"
+},
+{
+  "directory": "/home/ionut/Coding/gitrep/ExtraWordPuzzle/build/Debug",
+  "command": "/usr/bin/c++      -o CMakeFiles/main.dir/main.cpp.o -c /home/ionut/Coding/gitrep/ExtraWordPuzzle/main.cpp",
+  "file": "/home/ionut/Coding/gitrep/ExtraWordPuzzle/main.cpp"
+}
+]

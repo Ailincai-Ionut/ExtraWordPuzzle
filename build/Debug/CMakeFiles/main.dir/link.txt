@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/App.cpp.o CMakeFiles/main.dir/Graph.cpp.o CMakeFiles/main.dir/main.cpp.o  -o ../../bin/main  /usr/lib/x86_64-linux-gnu/libmenu.so -lcurses 

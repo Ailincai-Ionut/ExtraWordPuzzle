@@ -1,0 +1,3 @@
+/home/ionut/Coding/gitrep/ExtraWordPuzzle/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/ionut/Coding/gitrep/ExtraWordPuzzle/build/Debug/CMakeFiles/edit_cache.dir
+/home/ionut/Coding/gitrep/ExtraWordPuzzle/build/Debug/CMakeFiles/main.dir
